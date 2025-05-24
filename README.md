@@ -36,13 +36,22 @@
 
 | Company | Tech | TL;DR |
 | -- | -- | -- |
-| [Loopsio](https://loopsio.com/) | Firebase • React | Built the [JustPass](https://justpass.app/) product, a digital loyalty card programme |
+| [Loopsio](https://loopsio.com/) | Firebase • React • Tailwind | Built the [JustPass](https://justpass.app/) product, a digital loyalty card programme |
 | [VectorShift](https://vectorshift.ai/) | FastAPI • React • Celery | Integrated features like voice bots to enhance the AI-tech product suite |
 | [UniScholars](https://unischolars.com/) | DRF • Celery • Redis | Built the backend to support the website and internal CRM including automation workflows |
 | [BukuWarung](https://bukuwarung.com/) | Java • Spring Boot • Kafka | Feature development for financial products, while building resiliency in a micro-service oriented architecture |
 | [The Nudge Institute](https://www.thenudge.org/) | Python • OpenAI | Built [tech-based games and quizzes](https://github.com/TheNudgeInstitute/FPTelegramBOT/tree/main) delivered via Telegram for the Future Perfect programme |
 | [Amadeus](https://amadeus.com/en/cytric/overview) | Java | Content integration for the Cytric product via the Amadeus GDS |
 </details>
+
+## Skills
+* **Languages**: [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)&nbsp;&nbsp;[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)&nbsp;&nbsp;[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+* **Databases**: [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)&nbsp;&nbsp;[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)&nbsp;&nbsp;[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)](#)&nbsp;&nbsp;[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+* **Frameworks**: [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)&nbsp;&nbsp;[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)&nbsp;&nbsp;[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+&nbsp;&nbsp;[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)&nbsp;&nbsp;[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)&nbsp;&nbsp;[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+* **Tools & Platforms**: [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)&nbsp;&nbsp;[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)&nbsp;&nbsp;[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+&nbsp;&nbsp;[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20.svg?logo=apache-kafka&logoColor=white)](#)&nbsp;&nbsp;[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
+
 
 <details>
 <summary><h2>Social</h2></summary>
