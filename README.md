@@ -6,8 +6,11 @@
 * Currently pursuing a MSc CS at the University of Glasgow
 
 ## What I’m doing right now
-- **MSc Computer Science @ University of Glasgow**: Dissertation
-- **Student Developer @ [Loopsio](https://loopsio.com/)**: Building **[Finwise](https://finwiseschool.com/)** using React Native, Expo, Tailwind, Supabase
+- **MSc Computer Science @ University of Glasgow**
+    - Dissertation on "Leveraging Retrieval-Augmented Large Language Models for Generating Context-Aware Anomaly Explanation in Industrial Control Systems"
+- **Student Developer @ [Loopsio](https://loopsio.com/)**
+    - Building **[Finwise](https://finwiseschool.com/)** using React Native, Expo, Tailwind, Supabase
+    - Building **[Walking App Glasgow](https://www.strath.ac.uk/business/accountingfinance/theentrepreneurswhomadeglasgow/walkingtour/)** using React Native, Expo, Tailwind, Supabase
 
 ## What I’ve been up to lately
 | Project | Tech | TL;DR |
