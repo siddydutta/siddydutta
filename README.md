@@ -7,10 +7,7 @@
 
 ## What I’m doing right now
 - **MSc Computer Science @ University of Glasgow**
-    - Dissertation on "AXIS: Leveraging Retrieval-Augmented Large Language Models for Generating Context-Aware Anomaly Explanation in Industrial Control Systems"
-        - [ICS Anomaly Metadata](https://github.com/siddydutta/ics-anomaly-metadata/)
-        - [ICS Anomaly Attribution](github.com/siddydutta/ics-anomaly-attribution/)
-        - [ICS Anomaly Explanation](github.com/siddydutta/ics-anomaly-explanation/)  
+    - Dissertation on ["AXIS: Leveraging Retrieval-Augmented Large Language Models for Generating Context-Aware Anomaly Explanations in Industrial Control Systems"](https://siddydutta.github.io/ics-anomaly-explanation/)
 - **Student Developer @ [Loopsio](https://loopsio.com/)**
     - Building **[Finwise](https://finwiseschool.com/)** using React Native, Expo, Nativewind, Supabase
     - Building **[Walking App Glasgow](https://www.strath.ac.uk/business/accountingfinance/theentrepreneurswhomadeglasgow/walkingtour/)** using React Native, Expo, Nativewind, Supabase
